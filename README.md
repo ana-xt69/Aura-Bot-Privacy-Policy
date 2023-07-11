@@ -1,6 +1,6 @@
 # **[Privacy Policy of Aura Music Bot](https://top.gg/bot/1115872266568355910)**
 
-![Aura Bot]()
+![Aura Bot](https://media.discordapp.net/attachments/1117448438183907348/1128386022774943794/IMG_20230711_233234.png)
 
 Here **Aura**/**We**/**Our** refers to ("**[bot](https://top.gg/115872266568355910)**" or "**[developer](https://github.com/ana-nt69)**")
 
@@ -33,7 +33,7 @@ If you are concerned about anything, you can contact me through any of the follo
 - [Email.](anant.is.dev@null.net)
 - [Discord.](https://discord.com/users/1083615955046912080)
 
- ![Discord](https://discord.c99.nl/widget/theme-3/752457056442908704.png)
+ ![Discord](https://discord.c99.nl/widget/theme-3/1083615955046912080.png)
 
 ---
 
