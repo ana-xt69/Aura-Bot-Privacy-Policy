@@ -1,8 +1,8 @@
-# **[Privacy Policy of Aura Music Bot]([https://top.gg/bot/885876809776893964](https://top.gg/bot/1115872266568355910))**
+# **[Privacy Policy of Aura Music Bot](https://top.gg/bot/1115872266568355910)**
 
-![Akito Bot](https://cdn.discordapp.com/attachments/891178370442858526/891178505260396554/akito_banner.png)
+![Aura Bot](https://cdn.discordapp.com/attachments/891178370442858526/891178505260396554/akito_banner.png)
 
-Here **Akito**/**We**/**Our** refers to ("**[bot](https://top.gg/bot/885876809776893964)**" or "**[developer](https://github.com/EitoZX)**")
+Here **Akito**/**We**/**Our** refers to ("**[bot](https://top.gg/115872266568355910)**" or "**[developer](https://github.com/ana-nt69)**")
 
 
 
@@ -13,7 +13,7 @@ Here **Akito**/**We**/**Our** refers to ("**[bot](https://top.gg/bot/88587680977
 Only message content is stored.
 
 ## Why it is stored?
-We store only _**message content**_ for `a!snipe` command, which is used to fetch deleted message from a guild channel (only if you're in the same channel).
+We store only _**message content**_ for `afk` command, which is used to fetch deleted message from a guild channel (only if you're in the same channel).
 
 ## How it is stored?
 We don't use any database for it. We just store it in internal cache memory of the bot.
@@ -30,14 +30,12 @@ Well, since we're not using any database, it's stored in internal cache memory o
 ## **Questions and Concerns.**
 
 If you are concerned about anything, you can contact me through any of the following:
-- [Email.](mailto:iameitozx@gmail.com)
-- [Discord.](https://discord.com/users/752457056442908704)
+- [Email.](anant.is.dev@null.net)
+- [Discord.](https://discord.com/users/1083615955046912080)
 
  ![Discord](https://discord.c99.nl/widget/theme-3/752457056442908704.png)
 
 ---
 
-*Make sure to read [Terms Of Service](https://github.com/Akito-Discord-Bot/Terms-Of-Service/blob/master/README.md) too* 
-
 ##### Changes Can Be Made Anytime.
-##### Last Update: 8th Oct, 2021..
+##### Last Update: 8th July, 2023..
