@@ -1,8 +1,8 @@
 # **[Privacy Policy of Aura Music Bot](https://top.gg/bot/1115872266568355910)**
 
-![Aura Bot](https://cdn.discordapp.com/attachments/891178370442858526/891178505260396554/akito_banner.png)
+![Aura Bot]()
 
-Here **Akito**/**We**/**Our** refers to ("**[bot](https://top.gg/115872266568355910)**" or "**[developer](https://github.com/ana-nt69)**")
+Here **Aura**/**We**/**Our** refers to ("**[bot](https://top.gg/115872266568355910)**" or "**[developer](https://github.com/ana-nt69)**")
 
 
 
